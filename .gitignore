@@ -1,0 +1,25 @@
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+migrations/
+# Environments
+.env
+.venv
+env/
+venv
+ENV/
+env.bak/
+venv.bak/
+draft
+# Databases
+*.sqlite3
+
+# Static and media files
+/media/
+
+# VSCode
+.vscode/
+
