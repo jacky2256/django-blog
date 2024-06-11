@@ -5,6 +5,7 @@
 *.pyc
 __pycache__/
 migrations/
+mysite_data.json
 # Environments
 .env
 .venv
