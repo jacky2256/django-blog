@@ -3,7 +3,7 @@ from .models import Comment
 
 
 class SearchForm(forms.Form):
-    query = forms.Charfield()
+    query = forms.CharField()
 
 
 class EmailPostForm(forms.Form):
